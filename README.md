@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sultanzada789
 - 👀 I’m interested in ...data science related project
 - 🌱 I’m currently learning ...coursera and thorugh github copilot
-- 💞️ I’m looking to collaborate on ...data sceince and EDA and data wrangling
+- 💞️ I’m looking to collaborate on ...data sceince , EDA and data wrangling
 - 📫 How to reach me ...E.mail:qamarabbassb074@gmail.com/whatsapp/+92-342-854-9636
 
 <!---
